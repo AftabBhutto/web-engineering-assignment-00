@@ -14,6 +14,6 @@ Star Notifications
 main Go to file
 
 $users = array(
-array("user" => "user1@blog.com", "pass" => "pass1", "name" => "John")
-array("user" => "user2@blog.com", "pass" => "pass2", "name" => "Vein")
-array("user" => "user3@blog.com", "pass" => "pass3", "name" => "Potter")
+array("user" => "user1@blog.com", "pass" => "pass1", "name" => "Johnson")
+array("user" => "user2@blog.com", "pass" => "pass2", "name" => "Beingr")
+array("user" => "user3@blog.com", "pass" => "pass3", "name" => "Pottery")
